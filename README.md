@@ -1,8 +1,10 @@
 ## Hi there 👋
 
+
+
 # I am Ed and I'm:
 
-- 💼 Looking for opportunities in the field of Data Analytics, specifically in the fields of Marketing, Product, and Conversion Rate Optimization (Growth)
+- 💼 Looking for entry-level Data Analytics job opportunities, preferably in the fields of Marketing, Product, and Conversion Rate Optimization (Growth)
 - 📚 Just finished the Data Analytics course at Turing College
 - 🌱 Currently learning to code in Python
 - 🧠 Received a BA Degree in International Sport Management in The Netherlands, and since followed a career path in the Sports & Health IT sector.
