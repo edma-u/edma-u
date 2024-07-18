@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-
-
 # I am Ed and I'm:
 
 - 💼 Looking for entry-level Data Analytics job opportunities, preferably in the fields of Marketing, Product, and Conversion Rate Optimization (Growth)
