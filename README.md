@@ -7,7 +7,7 @@
 - 🌱 Currently learning to code in Python, after acquiring advanced SQL skills
 - 🧠 Received a BA Degree in International Sport Management in The Netherlands, and since followed a career path in the Sports & Health IT sector
 - 📫 Easily reachable via: [LinkedIn](https://www.linkedin.com/in/edmundasusinskis/)
-- ⚡ Full of ̷d̷u̷l̷l fun facts: [So far I've taken 88 flights (and counting)](https://my.flightradar24.com/edma_u) – Where should I go next? 🛫
+- ⚡ Full of ̷d̷u̷l̷l fun facts: [So far I've taken 91 flights (and counting)](https://my.flightradar24.com/edma_u) – Where should I go next? 🛫
 
 <!--
 **edma-u/edma-u** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
